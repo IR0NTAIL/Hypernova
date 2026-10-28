@@ -65,7 +65,3 @@ npm run dev
 ## Contributing
 
 Issues and pull requests are welcome. Please keep new physics rules grounded in real science and document the source of any formula you add.
-
-## License
-
-Add a license of your choice (for example MIT) before publishing.
