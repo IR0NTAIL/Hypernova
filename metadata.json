@@ -1,0 +1,6 @@
+{
+  "name": "Hypernova",
+  "description": "An interactive 3D astrophysical space life simulation where stars, brown dwarfs, planets, white dwarfs, neutron stars, supernovae, and black holes emerge deterministically from Newtonian gravity, thermodynamics, Jeans collapse, and stellar nucleosynthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
