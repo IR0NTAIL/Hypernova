@@ -2,7 +2,6 @@
 
 An interactive, Conway's Game of Life-style sandbox for the cosmos. Start with a blank canvas, add elements, and watch real physics turn drifting gas into stars, planets, supernovae and black holes.
 
-> **Status:** in development. The full build spec is in [`space-life-sim.md`](./space-life-sim.md).
 
 ## Idea
 
